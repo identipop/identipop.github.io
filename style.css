@@ -1,3 +1,14 @@
 body{
 	background-color: #D3F8FF;
+	text-align:center;
+}
+
+h1{
+	font-family: 'Barrio', cursive;
+	text-align:center;
+}
+
+h3{
+	font-family: 'Rock Salt', cursive;
+	text-align:center;
 }
